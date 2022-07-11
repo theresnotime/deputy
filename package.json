@@ -45,7 +45,7 @@
         "expect-puppeteer": "^6.1.0",
         "jest": "^28.1.1",
         "jest-puppeteer": "^6.1.0",
-        "oojs-ui": "^0.43.2",
+        "oojs-ui": "^0.44.0",
         "puppeteer": "^13.5.1",
         "rollup": "^2.75.6",
         "rollup-plugin-node-license": "^0.2.1",
